@@ -1,0 +1,73 @@
+.logo{
+    width: 90px;
+}
+img{
+    max-width: 100%; 
+}
+nav.navbar{
+    background-color: #fff !important;
+}
+.banner{
+    background-color: #F9F9FF;
+}
+.banner-img img{ 
+    height: 555px;
+}
+.banner-content{
+    height: 90vh;
+}
+
+.section-4{
+    background-color: #8490FF;
+}
+.number{
+    background-color: #F9F9FF;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+}
+.number h2{
+    margin-top: 30px;
+}
+.ppp{
+    font-weight: 500;
+    color: #777;
+}
+.section-5{
+    background-color: #F9F9FF;
+}
+.section-7{
+    background-color: #F9F9FF;
+}
+.image {
+    width: 90px;
+    position: relative;
+    top: -70px;
+    left: -5px;
+}
+.hhh{
+    margin-top: -60px;
+}
+.btnc {
+    font-weight: 500;
+    box-shadow: 2px 2px 15px 6px #ddd !important;
+}
+.ssss{
+    box-shadow: 2px 2px 15px 6px #ddd !important;
+}
+.form-cover{
+    background-color: #fff;
+    padding: 30px;
+}
+.address h4{
+    margin-top: 150px;
+}
+.address{
+    margin-left: 20px;
+}
+.address p{
+    font-weight: 500;
+}
+footer p{
+    font-weight: 500;
+}
